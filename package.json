@@ -1,0 +1,27 @@
+{
+  "name": "fullstackwebdevelopment",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAsurvivor/full-stack-web-development.git"
+  },
+  "author": "Zhaohan Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAsurvivor/full-stack-web-development/issues"
+  },
+  "homepage": "https://github.com/LAsurvivor/full-stack-web-development#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "debug": "^4.3.3"
+  }
+}
