@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Navbar, NavbarBrand, Nav, NavbatToggler, Collapse, NavItem, Jumbotron, Col, 
+import { Navbar, NavbarBrand, Nav, Collapse, NavItem, Jumbotron,
     NavbarToggler, Button, Modal, ModalHeader, ModalBody, Form, FormGroup, Input, Label } from 'reactstrap';
 import { NavLink } from 'react-router-dom'; 
 
