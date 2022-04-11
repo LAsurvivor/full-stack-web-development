@@ -1,3 +1,12 @@
+This is the project file of full stack web development with React.js
+
+Some of the back-end part can be refered to (this link)[https://github.com/LAsurvivor/full-stack-web-development-back-end-part]
+
+
+Down below is the README file originated from React.
+
+--------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
